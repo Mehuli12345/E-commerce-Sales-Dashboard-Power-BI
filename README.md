@@ -25,11 +25,11 @@ This project showcases an **interactive sales dashboard** developed using **Powe
 
 ### 🔴 Dark Theme Dashboard
 
-![Dark Dashboard](https://yourimageurl.com/dark-dashboard.png)
+image provided
 
 ### 🔵 Light Theme Dashboard with Customer Insights
 
-![Light Dashboard](https://yourimageurl.com/light-dashboard.png)
+image provided
 
 > *(Replace the image URLs above with actual image links if hosted on GitHub or use relative paths if storing images in the repo)*
 
