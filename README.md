@@ -31,7 +31,7 @@ This project showcases an **interactive sales dashboard** developed using **Powe
 
 [light theme](https://github.com/Mehuli12345/E-commerce-Sales-Dashboard-Power-BI/blob/main/dark-gradient-background-lspldgnansnd0s4g.jpg)
 
-> *(Replace the image URLs above with actual image links if hosted on GitHub or use relative paths if storing images in the repo)*
+
 
 ---
 
