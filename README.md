@@ -25,7 +25,7 @@ This project showcases an **interactive sales dashboard** developed using **Powe
 
 ### 🔴 Dark Theme Dashboard
 
-image provided
+[image provided](https://github.com/Mehuli12345/E-commerce-Sales-Dashboard-Power-BI/blob/main/dark-gradient-background-6bly12umg2d4psr2.jpg)
 
 ### 🔵 Light Theme Dashboard with Customer Insights
 
